@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082113931046:jetbrains.mps.baseLanguage.structure.ContinueStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1144226303539:jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="TextGenAspectDescriptor.java">
+      <unit at="58,0,61,0" name="MindMap.textGen.TextGenAspectDescriptor$CONCEPTS" />
+      <unit at="62,0,65,0" name="MindMap.textGen.TextGenAspectDescriptor$PROPS" />
+      <unit at="18,0,66,0" name="MindMap.textGen.TextGenAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:311fb9ef-5418-4007-8456-1554ee072347(MindMap.textGen)/970316064841779931">
+    <file name="Mindmap_TextGen.java">
+      <node id="970316064841779931" at="16,54,17,55" concept="6" />
+      <node id="970316064841784088" at="17,55,18,43" concept="2" />
+      <node id="970316064841784246" at="18,43,19,18" concept="2" />
+      <node id="970316064841784344" at="19,18,20,36" concept="2" />
+      <node id="970316064841784472" at="20,36,21,18" concept="2" />
+      <node id="970316064841784584" at="21,18,22,27" concept="2" />
+      <node id="970316064841785185" at="22,27,23,131" concept="2" />
+      <node id="970316064841789523" at="23,131,24,20" concept="2" />
+      <node id="970316064841784585" at="24,20,25,18" concept="2" />
+      <node id="970316064841784629" at="25,18,26,28" concept="2" />
+      <node id="970316064841789642" at="26,28,27,20" concept="2" />
+      <node id="970316064841784630" at="27,20,28,18" concept="2" />
+      <node id="970316064841784682" at="28,18,29,30" concept="2" />
+      <node id="970316064841784683" at="29,30,30,18" concept="2" />
+      <node id="970316064841784722" at="30,18,31,36" concept="2" />
+      <node id="970316064841784723" at="31,36,32,18" concept="2" />
+      <node id="970316064841784765" at="32,18,33,34" concept="2" />
+      <node id="970316064841784766" at="33,34,34,18" concept="2" />
+      <node id="970316064841789861" at="34,18,35,87" concept="2" />
+      <node id="970316064841784794" at="35,87,36,18" concept="2" />
+      <node id="970316064841791447" at="36,18,37,0" concept="8" />
+      <node id="970316064841784858" at="37,0,38,34" concept="2" />
+      <node id="970316064841784859" at="38,34,39,18" concept="2" />
+      <node id="970316064841779931" at="43,0,44,0" concept="9" trace="topic$L2MV" />
+      <node id="970316064841779931" at="47,0,48,0" concept="9" trace="name$MnvL" />
+      <node id="970316064841779931" at="15,0,41,0" concept="5" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="970316064841779931" at="16,54,39,18">
+        <var name="tgs" id="970316064841779931" />
+      </scope>
+      <scope id="970316064841779931" at="15,0,41,0">
+        <var name="ctx" id="970316064841779931" />
+      </scope>
+      <unit id="970316064841779931" at="42,0,45,0" name="MindMap.textGen.Mindmap_TextGen$LINKS" />
+      <unit id="970316064841779931" at="46,0,49,0" name="MindMap.textGen.Mindmap_TextGen$PROPS" />
+      <unit id="970316064841779931" at="14,0,50,0" name="MindMap.textGen.Mindmap_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="970316064841779931" at="32,41,33,37" concept="7" />
+      <node id="970316064841779931" at="43,58,44,49" concept="6" />
+      <node id="970316064841779931" at="44,49,45,52" concept="6" />
+      <node id="970316064841779931" at="45,52,46,84" concept="2" />
+      <node id="970316064841779931" at="46,84,47,17" concept="1" />
+      <node id="970316064841780225" at="51,57,52,77" concept="7" />
+      <node id="970316064841783744" at="54,62,55,17" concept="7" />
+      <node id="970316064841779931" at="51,0,54,0" concept="10" trace="getFileName_Mindmap#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="970316064841779931" at="54,0,57,0" concept="10" trace="getFileExtension_Mindmap#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="970316064841779931" at="42,58,48,7" concept="4" />
+      <scope id="970316064841779931" at="32,41,33,37" />
+      <scope id="970316064841779931" at="51,57,52,77" />
+      <scope id="970316064841779931" at="54,62,55,17" />
+      <scope id="970316064841779931" at="51,0,54,0">
+        <var name="node" id="970316064841779931" />
+      </scope>
+      <scope id="970316064841779931" at="54,0,57,0">
+        <var name="node" id="970316064841779931" />
+      </scope>
+      <scope id="970316064841779931" at="43,58,47,17">
+        <var name="ext" id="970316064841779931" />
+        <var name="fname" id="970316064841779931" />
+      </scope>
+    </file>
+  </root>
+  <root nodeRef="r:311fb9ef-5418-4007-8456-1554ee072347(MindMap.textGen)/970316064841791670">
+    <file name="CentralTopic_TextGen.java">
+      <node id="970316064841791670" at="15,54,16,55" concept="6" />
+      <node id="970316064841791709" at="17,98,18,27" concept="2" />
+      <node id="970316064841793000" at="19,5,20,18" concept="2" />
+      <node id="970316064841791670" at="24,0,25,0" concept="9" trace="mainTopics$L49C" />
+      <node id="970316064841791709" at="16,55,19,5" concept="3" />
+      <node id="970316064841791670" at="14,0,22,0" concept="5" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="970316064841791709" at="17,98,18,27" />
+      <scope id="970316064841791709" at="16,55,19,5">
+        <var name="item" id="970316064841791709" />
+      </scope>
+      <scope id="970316064841791670" at="15,54,20,18">
+        <var name="tgs" id="970316064841791670" />
+      </scope>
+      <scope id="970316064841791670" at="14,0,22,0">
+        <var name="ctx" id="970316064841791670" />
+      </scope>
+      <unit id="970316064841791670" at="23,0,26,0" name="MindMap.textGen.CentralTopic_TextGen$LINKS" />
+      <unit id="970316064841791670" at="13,0,27,0" name="MindMap.textGen.CentralTopic_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="970316064841791670" at="28,46,29,42" concept="7" />
+      <scope id="970316064841791670" at="28,46,29,42" />
+    </file>
+  </root>
+  <root nodeRef="r:311fb9ef-5418-4007-8456-1554ee072347(MindMap.textGen)/970316064841793030">
+    <file name="MainTopic_TextGen.java">
+      <node id="970316064841793030" at="17,54,18,55" concept="6" />
+      <node id="970316064841793069" at="18,55,19,42" concept="2" />
+      <node id="970316064841793242" at="19,42,20,86" concept="2" />
+      <node id="970316064841794616" at="20,86,21,20" concept="2" />
+      <node id="970316064841794854" at="21,20,22,18" concept="2" />
+      <node id="970316064841795001" at="23,97,24,27" concept="2" />
+      <node id="970316064841796161" at="25,5,26,18" concept="2" />
+      <node id="970316064841793030" at="30,0,31,0" concept="9" trace="name$MnvL" />
+      <node id="970316064841793030" at="34,0,35,0" concept="9" trace="subTopics$L4SB" />
+      <node id="970316064841795001" at="22,18,25,5" concept="3" />
+      <node id="970316064841793030" at="16,0,28,0" concept="5" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="970316064841795001" at="23,97,24,27" />
+      <scope id="970316064841795001" at="22,18,25,5">
+        <var name="item" id="970316064841795001" />
+      </scope>
+      <scope id="970316064841793030" at="17,54,26,18">
+        <var name="tgs" id="970316064841793030" />
+      </scope>
+      <scope id="970316064841793030" at="16,0,28,0">
+        <var name="ctx" id="970316064841793030" />
+      </scope>
+      <unit id="970316064841793030" at="29,0,32,0" name="MindMap.textGen.MainTopic_TextGen$PROPS" />
+      <unit id="970316064841793030" at="33,0,36,0" name="MindMap.textGen.MainTopic_TextGen$LINKS" />
+      <unit id="970316064841793030" at="15,0,37,0" name="MindMap.textGen.MainTopic_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="970316064841793030" at="30,43,31,39" concept="7" />
+      <scope id="970316064841793030" at="30,43,31,39" />
+    </file>
+  </root>
+  <root nodeRef="r:311fb9ef-5418-4007-8456-1554ee072347(MindMap.textGen)/970316064841796192">
+    <file name="SubTopic_TextGen.java">
+      <node id="970316064841796192" at="19,54,20,55" concept="6" />
+      <node id="970316064841798619" at="21,111,22,37" concept="2" />
+      <node id="970316064841798732" at="22,37,23,88" concept="2" />
+      <node id="970316064841800106" at="23,88,24,20" concept="2" />
+      <node id="970316064841800841" at="25,12,26,34" concept="2" />
+      <node id="970316064841800927" at="26,34,27,88" concept="2" />
+      <node id="970316064841802301" at="27,88,28,22" concept="2" />
+      <node id="970316064841802410" at="28,22,29,20" concept="2" />
+      <node id="970316064841803162" at="31,100,32,27" concept="2" />
+      <node id="970316064841804453" at="33,5,34,18" concept="2" />
+      <node id="970316064841796192" at="38,0,39,0" concept="9" trace="SubTopic$rM" />
+      <node id="970316064841796192" at="42,0,43,0" concept="9" trace="name$MnvL" />
+      <node id="970316064841796192" at="46,0,47,0" concept="9" trace="subSubTopics$Lajr" />
+      <node id="970316064841803162" at="30,5,33,5" concept="3" />
+      <node id="970316064841800553" at="25,10,30,5" concept="0" />
+      <node id="970316064841796211" at="20,55,30,5" concept="4" />
+      <node id="970316064841796192" at="18,0,36,0" concept="5" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="970316064841803162" at="31,100,32,27" />
+      <scope id="970316064841796213" at="21,111,24,20" />
+      <scope id="970316064841803162" at="30,5,33,5">
+        <var name="item" id="970316064841803162" />
+      </scope>
+      <scope id="970316064841800554" at="25,12,29,20" />
+      <scope id="970316064841796192" at="19,54,34,18">
+        <var name="tgs" id="970316064841796192" />
+      </scope>
+      <scope id="970316064841796192" at="18,0,36,0">
+        <var name="ctx" id="970316064841796192" />
+      </scope>
+      <unit id="970316064841796192" at="37,0,40,0" name="MindMap.textGen.SubTopic_TextGen$CONCEPTS" />
+      <unit id="970316064841796192" at="41,0,44,0" name="MindMap.textGen.SubTopic_TextGen$PROPS" />
+      <unit id="970316064841796192" at="45,0,48,0" name="MindMap.textGen.SubTopic_TextGen$LINKS" />
+      <unit id="970316064841796192" at="17,0,49,0" name="MindMap.textGen.SubTopic_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="970316064841796192" at="34,42,35,38" concept="7" />
+      <scope id="970316064841796192" at="34,42,35,38" />
+    </file>
+  </root>
+</debug-info>
+
